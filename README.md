@@ -1,2 +1,6 @@
-# Stock-Analysis
-In this project user will input the company name and built search engine will extract the results related to query. After user will input the start and end dater of stock and using yahoo finance api stock data will be generated. Then detailed analysis and visualization with interactive plots will be performed on fetched data. Project also include feature like news scraping. Then at last stock price will be predicted using deep learning model LSTM which is perfect to predict sequence data.
+- Real-time data Scraping 
+- Data Processing
+- Data Analysis with interactive visualization
+- Statistical And Financial Analysis
+- Prediction using Deep Learning Model
+- NLP for news
